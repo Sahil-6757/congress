@@ -37,12 +37,12 @@ export default function App() {
   ];
 
   const initiatives = [
-    { title: "Educational Empowerment", desc: "Scholarships, distance-learning support and free counselling for first-generation learners.", img: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=800&auto=format&fit=crop" },
-    { title: "Youth Guidance Drives", desc: "Career, IQ & EQ workshops for college students across Maharashtra.", img: "https://images.unsplash.com/photo-1529390079861-591de354faf5?q=80&w=800&auto=format&fit=crop" },
-    { title: "Rural Outreach", desc: "Programs supporting backward-class students and rural infrastructure advocacy.", img: "https://images.unsplash.com/photo-1596706981881-8b4382e70e28?q=80&w=800&auto=format&fit=crop" },
-    { title: "Student Welfare", desc: "Admission assistance, CV reviews, mentorship via the Bodhieduguru network.", img: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop" },
-    { title: "Public Interaction Yatras", desc: "Door-to-door dialogue, town halls and citizen feedback sessions.", img: "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=800&auto=format&fit=crop" },
-    { title: "Awareness Campaigns", desc: "Civic awareness, voter rights and Gandhian-thought programs for the youth.", img: "https://images.unsplash.com/photo-1529209072810-8b208460010c?q=80&w=800&auto=format&fit=crop" },
+    { title: "Educational Empowerment", desc: "Scholarships, distance-learning support and free counselling for first-generation learners.", img: "https://prathameshabnave.com/wp-content/uploads/2021/05/4b0f8b0b-680b-4da3-83e3-b1899ee5fed6.jpg?strip=info&w=1080" },
+    { title: "Youth Guidance Drives", desc: "Career, IQ & EQ workshops for college students across Maharashtra.", img: "https://prathameshabnave.com/wp-content/uploads/2025/11/1004074665.jpg?w=1024" },
+    { title: "Rural Outreach", desc: "Programs supporting backward-class students and rural infrastructure advocacy.", img: "https://prathameshabnave.com/wp-content/uploads/2021/05/1f1981f6-cfd8-470e-a88c-abeab92f4199.jpg?strip=info&w=960" },
+    { title: "Student Welfare", desc: "Admission assistance, CV reviews, mentorship via the Bodhieduguru network.", img: "https://prathameshabnave.com/wp-content/uploads/2025/11/1004074647-1.jpg?w=768" },
+    { title: "Public Interaction Yatras", desc: "Door-to-door dialogue, town halls and citizen feedback sessions.", img: "https://prathameshabnave.com/wp-content/uploads/2025/11/1004074639-1.jpg?w=1024" },
+    { title: "Awareness Campaigns", desc: "Civic awareness, voter rights and Gandhian-thought programs for the youth.", img: "https://prathameshabnave.com/wp-content/uploads/2021/05/06b41c55-dfee-4b7b-a6a0-bd107b3ea2af.jpg?strip=info&w=960" },
   ];
 
   const media = [
@@ -52,21 +52,21 @@ export default function App() {
   ];
 
   const gallery = [
-    "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1200&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1200&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1200&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1200&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1546961329-78bef0414d7c?q=80&w=1200&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?q=80&w=1200&auto=format&fit=crop",
+    "https://prathameshabnave.com/wp-content/uploads/2025/11/1004074639-1.jpg?w=1024",
+    "https://prathameshabnave.com/wp-content/uploads/2025/11/1004074641-1.jpg?w=901",
+    "https://prathameshabnave.com/wp-content/uploads/2025/11/1004074654-1.jpg?w=472",
+    "https://prathameshabnave.com/wp-content/uploads/2021/05/a634e76b-f2f7-4128-95ff-be3708f617bd.jpg?strip=info&w=540",
+    "https://prathameshabnave.com/wp-content/uploads/2021/05/0b24da12-4d57-4333-83b1-eea22345ee7c.jpg?strip=info&w=559",
+    "https://prathameshabnave.com/wp-content/uploads/2021/05/11d6a20f-ab9a-4df7-8791-384c950ce442.jpg?strip=info&w=768",
   ];
 
   return (
     <div className="bg-[#f8f9fa] text-gray-900 min-h-screen font-sans overflow-x-hidden selection:bg-primary/20 selection:text-primary relative">
-      
+
       {/* Texture & Gradients */}
       <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
         {/* Subtle leaf/floral SVG pattern overlay */}
-        <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M54.627 0l.83.83-1.66 1.66-.83-.83.83-.83zM27.87 0l.83.83-1.66 1.66-.83-.83.83-.83zM0 27.87l.83.83-1.66 1.66-.83-.83.83-.83zM0 54.627l.83.83-1.66 1.66-.83-.83.83-.83z' fill='%23000' fill-rule='evenodd'/%3E%3C/svg%3E")`}}></div>
+        <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M54.627 0l.83.83-1.66 1.66-.83-.83.83-.83zM27.87 0l.83.83-1.66 1.66-.83-.83.83-.83zM0 27.87l.83.83-1.66 1.66-.83-.83.83-.83zM0 54.627l.83.83-1.66 1.66-.83-.83.83-.83z' fill='%23000' fill-rule='evenodd'/%3E%3C/svg%3E")` }}></div>
         {/* Gradients matching the screenshot */}
         <div className="absolute -top-40 -left-40 w-[800px] h-[800px] bg-orange-300/20 rounded-full blur-[120px]"></div>
         <div className="absolute top-[20%] right-[-20%] w-[600px] h-[600px] bg-emerald-200/20 rounded-full blur-[120px]"></div>
@@ -104,7 +104,7 @@ export default function App() {
       <section className="relative pt-16 pb-24 px-6 md:px-12 z-10 min-h-[85vh] flex items-center">
         <div className="max-w-[1400px] mx-auto grid lg:grid-cols-2 gap-16 items-center w-full">
           <div className="space-y-8 lg:pr-10 animate-fade-in-up">
-            
+
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/60 border border-white/80 shadow-sm backdrop-blur-md">
               <IconSparkle />
               <span className="text-secondary text-[11px] font-bold tracking-widest uppercase">
@@ -137,13 +137,13 @@ export default function App() {
           <div className="relative flex justify-center lg:justify-end mt-12 lg:mt-0">
             {/* Orange Glow Behind Image */}
             <div className="absolute top-0 right-0 w-[80%] h-[100%] bg-orange-400/30 blur-[80px] rounded-[3rem] z-0"></div>
-            
+
             <img
               src="https://prathameshabnave.com/wp-content/uploads/2025/11/1004074664.jpg"
               alt="Prathamesh Abnave speaking"
               className="relative z-10 rounded-[2.5rem] object-cover h-[650px] w-full max-w-lg shadow-[0_20px_50px_rgba(0,0,0,0.1)] border-8 border-white/40"
             />
-            
+
             {/* Floating Badge */}
             <div className="absolute top-[20%] -left-8 lg:-left-16 z-20 bg-white/90 backdrop-blur-xl border border-white shadow-xl rounded-3xl p-5 w-40 text-center animate-bounce duration-[3000ms]">
               <p className="text-[10px] text-gray-500 font-bold tracking-wider uppercase mb-1">Volunteers</p>
@@ -163,7 +163,7 @@ export default function App() {
                 A grassroots leader for a progressive Maharashtra.
               </h2>
             </div>
-            
+
             <p className="text-gray-600 leading-relaxed text-lg font-light">
               Prathamesh Vikas Abnave is a Pune-based public leader serving as Vice President of the Maharashtra Pradesh Youth Congress. With a foundation in civil engineering from Coventry University, England, and over a decade of grassroots organizing, his work bridges international perspective with local impact.
             </p>
@@ -315,7 +315,7 @@ export default function App() {
       <section id="contact" className="relative max-w-[1400px] mx-auto px-6 md:px-12 py-24 z-10">
         <div className="relative overflow-hidden rounded-[3rem] bg-secondary text-white p-8 md:p-16 shadow-2xl">
           <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2000&auto=format&fit=crop')] opacity-10 mix-blend-overlay bg-cover bg-center"></div>
-          
+
           <div className="relative z-10 grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
               <p className="uppercase tracking-[0.2em] text-sm text-blue-300 font-bold">Get Involved</p>
@@ -325,7 +325,7 @@ export default function App() {
               <p className="text-blue-100 text-lg font-light max-w-md">
                 Whether you'd like to collaborate, organize a public event or contribute ideas — we'd love to hear from you.
               </p>
-              
+
               <div className="space-y-6 pt-4">
                 <div className="flex items-center gap-4">
                   <div className="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center border border-white/20">
@@ -377,7 +377,7 @@ export default function App() {
               <p className="text-xs text-gray-500 font-medium tracking-wider uppercase">Youth Congress · Maharashtra</p>
             </div>
           </div>
-          
+
           <div className="flex gap-8">
             {['Facebook', 'Twitter', 'Instagram', 'LinkedIn'].map((social) => (
               <a key={social} href="#" className="text-gray-500 hover:text-primary transition-colors text-sm font-semibold">
